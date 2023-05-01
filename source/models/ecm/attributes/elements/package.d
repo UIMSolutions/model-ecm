@@ -1,1 +1,1 @@
-module models.myname.attributes.elements;
+module models.ecm.attributes.elements;

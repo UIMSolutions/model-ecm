@@ -1,9 +1,9 @@
-module models.myname;
+module models.ecm;
 
-public import models.myname.attributes;
-public import models.myname.classes;
-public import models.myname.elements;
-public import models.myname.entities;
-public import models.myname.tests;
-public import models.myname.usecases;
-public import models.myname.values;
+public import models.ecm.attributes;
+public import models.ecm.classes;
+public import models.ecm.elements;
+public import models.ecm.entities;
+public import models.ecm.tests;
+public import models.ecm.usecases;
+public import models.ecm.values;

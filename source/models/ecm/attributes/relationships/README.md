@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes.relationships
+# Package 📦 models.ecm.attributes.relationships

@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes.codes
+# Package 📦 models.ecm.attributes.codes

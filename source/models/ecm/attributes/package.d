@@ -1,8 +1,8 @@
-module models.myname.attributes;
+module models.ecm.attributes;
 
-public import models.myname.attributes.codes;
-public import models.myname.attributes.elements;
-public import models.myname.attributes.entites;
-public import models.myname.attributes.functions;
-public import models.myname.attributes.relationships;
-public import models.myname.attributes.uuids;
+public import models.ecm.attributes.codes;
+public import models.ecm.attributes.elements;
+public import models.ecm.attributes.entites;
+public import models.ecm.attributes.functions;
+public import models.ecm.attributes.relationships;
+public import models.ecm.attributes.uuids;

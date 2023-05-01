@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes.uuids.entities
+# Package 📦 models.ecm.attributes.uuids.entities
